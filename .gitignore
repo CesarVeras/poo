@@ -1,2 +1,6 @@
 .metadata/
 RemoteSystemsTempFiles/
+exercicios/
+.classpath
+.project
+org.eclipse.jdt.core.prefs
